@@ -1,0 +1,11 @@
+# dati Istat: non ridistribuibili, vanno scaricati (vedi README.md)
+data/*
+!data/.gitkeep
+# risultati generati dallo script
+output/*
+!output/.gitkeep
+# file di R e RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.RDataTmp

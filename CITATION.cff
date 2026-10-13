@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Se utilizzi questo codice, cita la tesi come indicato di seguito."
+title: "L'uso dell'intelligenza artificiale per lo studio della povertà: analisi del risparmio – codice R"
+type: software
+authors:
+  - family-names: "Di Prima"
+    given-names: "Federico"
+repository-code: "https://github.com/fdiprima/tesi-poverta-istat"
+url: "https://github.com/fdiprima/tesi-poverta-istat"
+date-released: 2026-10-13
+keywords:
+  - povertà relativa
+  - machine learning
+  - random forest
+  - XGBoost
+  - Istat
+  - R
+preferred-citation:
+  type: thesis
+  title: "L'uso dell'intelligenza artificiale per lo studio della povertà: analisi del risparmio"
+  authors:
+    - family-names: "Di Prima"
+      given-names: "Federico"
+  thesis-type: "Tesi di laurea magistrale"
+  institution:
+    name: "Università degli Studi della Tuscia, Dipartimento di Economia e Impresa"
+  year: 2026
+  url: "https://github.com/fdiprima/tesi-poverta-istat"

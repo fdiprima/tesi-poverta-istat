@@ -1,0 +1,2 @@
+DA COMPLETARE: incollare qui l'output di sessionInfo() stampato nella sezione
+"G2 - Informazioni sulla sessione" alla fine di output_senza_cluster.txt.
